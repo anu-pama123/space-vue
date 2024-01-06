@@ -1,0 +1,16 @@
+.table-container {
+    height: 100%;
+    width: 100%;
+}
+
+.table-container {
+    display: flex;
+    margin-top: 50px;
+}
+
+.ag-theme-quartz{
+    height: 100%;
+    width: 89%;
+    margin: auto;
+
+}

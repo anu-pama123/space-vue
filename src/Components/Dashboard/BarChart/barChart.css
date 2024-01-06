@@ -1,0 +1,10 @@
+.chart-container {
+    height: 80vh;
+    display: flex;
+}
+
+.chart-subcontainer {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+}

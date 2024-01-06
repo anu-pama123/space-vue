@@ -1,0 +1,29 @@
+.header-container {
+    height: 15%;
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: wheat;
+}
+
+.header-subcontainer {
+    width: 89%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-items {
+    display: flex;
+    gap: 40px;
+}
+
+.app-title {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 40px;
+}
+
+.piechart-nav, .barchart-nav, .logout-nav {
+    cursor: pointer;
+}
